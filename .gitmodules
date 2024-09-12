@@ -1,0 +1,6 @@
+[submodule "verify-merkle/lib/forge-std"]
+	path = verify-merkle/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "verify-merkle/lib/openzeppelin-contracts"]
+	path = verify-merkle/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
