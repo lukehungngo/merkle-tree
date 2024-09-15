@@ -1,0 +1,146 @@
+[
+  {
+    "i": 0,
+    "value": [
+      "0x1234567890abcdef1234567890abcdef12345678",
+      "1001",
+      "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "0"
+    ],
+    "proof": [
+      "0xad2fc2b765ba376db2ee48e1ccdab6f5e25d5efda905553a9bc66be97a6eb4c8",
+      "0x5785538354c93fb32468d9b55336e0c1e00d18609b57d7f0dbc792f33fc1e074",
+      "0x394c02f8a7302032cd295da83849dbfe268ed2b51ee8c2fc301580d479dc2d1c"
+    ]
+  },
+  {
+    "i": 1,
+    "value": [
+      "0xabcdefabcdefabcdefabcdefabcdefabcdefabcd",
+      "1001",
+      "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "1"
+    ],
+    "proof": [
+      "0xe32d809aff9da1b2db958eb1b15d6c1281be8f635a7246e4f3ba4c85023762cf",
+      "0x9f8447ea6757dbddfd1877311092c632c21aba85b912af62312fc1a2738ab65a",
+      "0x394c02f8a7302032cd295da83849dbfe268ed2b51ee8c2fc301580d479dc2d1c"
+    ]
+  },
+  {
+    "i": 2,
+    "value": [
+      "0x1234567890abcdef1234567890abcdef12345678",
+      "1001",
+      "0xcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+      "7"
+    ],
+    "proof": [
+      "0xef7648f058abf8a19df0be14afddc1c47bc4bb4e28bb7ce80706a430285659aa",
+      "0x0c27055e127388101fb7cd2e99482de6ba1547d7be3f070eb14028c846deb9e0",
+      "0x10390d00759653f4770622c4b67ae9be99ce512783d8fde654b5d9071bf56886"
+    ]
+  },
+  {
+    "i": 3,
+    "value": [
+      "0xcafebabecafebabecafebabecafebabecafebabe",
+      "1001",
+      "0xdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "12"
+    ],
+    "proof": [
+      "0x893d28ff4f141e4b4112d3ffbad91b5e30ad42baf4d080f433465ae5d3708d11",
+      "0x4b322bfbfe4d934890cb0986176d74a057f812d06638d6ec719bc20b6fbc9088",
+      "0xaa047bdad7db8f9b9c7da0adfb4ab424d44926daf38f58cf8375d75489c4d441",
+      "0x10390d00759653f4770622c4b67ae9be99ce512783d8fde654b5d9071bf56886"
+    ]
+  },
+  {
+    "i": 4,
+    "value": [
+      "0xbeefbeefbeefbeefbeefbeefbeefbeefbeefbeef",
+      "1001",
+      "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "9"
+    ],
+    "proof": [
+      "0x4611e2a8bd541cbafe280af50e5df4947c6c1da03ae2f781a7ef4a4f1a8a2c40",
+      "0xf4fca3e54e5c4fc3ca4ec5b1cdb4e24fbb0ac895fd5ba765ea3a1393ca1128f7",
+      "0xaa047bdad7db8f9b9c7da0adfb4ab424d44926daf38f58cf8375d75489c4d441",
+      "0x10390d00759653f4770622c4b67ae9be99ce512783d8fde654b5d9071bf56886"
+    ]
+  },
+  {
+    "i": 5,
+    "value": [
+      "0xfeedfeedfeedfeedfeedfeedfeedfeedfeedfeed",
+      "1001",
+      "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "3"
+    ],
+    "proof": [
+      "0x55616eb00f7e5f7a4e6167d6724939ba40cfe9ebb117ebaa5bb04e021e01f3b1",
+      "0xf4fca3e54e5c4fc3ca4ec5b1cdb4e24fbb0ac895fd5ba765ea3a1393ca1128f7",
+      "0xaa047bdad7db8f9b9c7da0adfb4ab424d44926daf38f58cf8375d75489c4d441",
+      "0x10390d00759653f4770622c4b67ae9be99ce512783d8fde654b5d9071bf56886"
+    ]
+  },
+  {
+    "i": 6,
+    "value": [
+      "0x1234567890abcdef1234567890abcdef12345678",
+      "1001",
+      "0x1111111111111111111111111111111111111111111111111111111111111111",
+      "15"
+    ],
+    "proof": [
+      "0xd7717c58b1403267f9fe296198edb70fb546a70d9b36939451b643a56deba73b",
+      "0x9f8447ea6757dbddfd1877311092c632c21aba85b912af62312fc1a2738ab65a",
+      "0x394c02f8a7302032cd295da83849dbfe268ed2b51ee8c2fc301580d479dc2d1c"
+    ]
+  },
+  {
+    "i": 7,
+    "value": [
+      "0xcafebabecafebabecafebabecafebabecafebabe",
+      "1001",
+      "0x2222222222222222222222222222222222222222222222222222222222222222",
+      "4"
+    ],
+    "proof": [
+      "0x63e3acd868f9616c994898e6942e59a955c0d33ba8493bde3b49b5bd5a13e1c3",
+      "0x4b322bfbfe4d934890cb0986176d74a057f812d06638d6ec719bc20b6fbc9088",
+      "0xaa047bdad7db8f9b9c7da0adfb4ab424d44926daf38f58cf8375d75489c4d441",
+      "0x10390d00759653f4770622c4b67ae9be99ce512783d8fde654b5d9071bf56886"
+    ]
+  },
+  {
+    "i": 8,
+    "value": [
+      "0xc001d00dc001d00dc001d00dc001d00dc001d00d",
+      "1001",
+      "0x3333333333333333333333333333333333333333333333333333333333333333",
+      "20"
+    ],
+    "proof": [
+      "0xb413cb20de05ae8e27dcfb9f86fc2a26a71ba702d137de299efd6c2643359c13",
+      "0x5785538354c93fb32468d9b55336e0c1e00d18609b57d7f0dbc792f33fc1e074",
+      "0x394c02f8a7302032cd295da83849dbfe268ed2b51ee8c2fc301580d479dc2d1c"
+    ]
+  },
+  {
+    "i": 9,
+    "value": [
+      "0xabadc0ffeeabadc0ffeeabadc0ffeeabadc0ffee",
+      "1001",
+      "0x4444444444444444444444444444444444444444444444444444444444444444",
+      "0"
+    ],
+    "proof": [
+      "0xf3d79db0b96ae75ebd4fd280841c232aeb905d57b1477316b21e861768afda66",
+      "0x0c27055e127388101fb7cd2e99482de6ba1547d7be3f070eb14028c846deb9e0",
+      "0x10390d00759653f4770622c4b67ae9be99ce512783d8fde654b5d9071bf56886"
+    ]
+  }
+]
